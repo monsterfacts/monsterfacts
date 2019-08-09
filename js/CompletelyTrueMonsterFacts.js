@@ -1,6 +1,6 @@
 var completelyTrueMonsterFacts =  {
 	"aberration": [
-		"Aberration fact one.",
+		"Touching it causes extreme skin irritation.",
 		"aberration fact two",
 		"aberration fact three"
 	],
