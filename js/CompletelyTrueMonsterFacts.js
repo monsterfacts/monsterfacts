@@ -1,46 +1,46 @@
 var completelyTrueMonsterFacts =  {
-	"aberration": [
+	"Aberrations": [
 		"Touching it causes extreme skin irritation.",
 		"aberration fact two",
 		"aberration fact three"
 	],
-	"animal": [
+	"Animals": [
 		"animal fact one"
 	],
-	"construct": [
+	"Constructs": [
 		"construct fact one it's quite long it just goes on and on like a train or a really long snake",
 		"construct fact two",
 		"construct fact three",
 		"construct fact four"
 	],
-	"dragon": [
+	"Dragons": [
 		"dragon fact one"
 	],
-	"fey": [
+	"Fey": [
 		"fey fact one"
 	],
-	"humanoid": [
+	"Humanoids": [
 		"humanoid fact one"
 	],
-	"magical_beast": [
+	"Magical Beasts": [
 		"magical beast fact one"
 	],
-	"monstrous_humanoid": [
+	"Monstrous Humanoids": [
 		"monstrous humanoid fact one"
 	],
-	"ooze": [
+	"Oozes": [
 		"ooze fact one"
 	],
-	"outsider": [
+	"Outsiders": [
 		"outsider fact one"
 	],
-	"plant": [
+	"Plants": [
 		"plant fact one"
 	],
-	"undead": [
+	"Undead": [
 		"undead fact one"
 	],
-	"vermin": [
+	"Vermin": [
 		"vermin fact one"
 	],
 };
