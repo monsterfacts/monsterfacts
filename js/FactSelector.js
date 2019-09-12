@@ -24,4 +24,21 @@ function displayFact(fact) {
 	factContainer.innerHTML = fact;
 }
 
-bindEvents();
+function createSelector() {
+	var selectorContainer = document.getElementById("selectorContainer");
+	
+	var selectorHtml = '<select name="type" id="typeSelector">';
+	for(key in completelyTrueMonsterFacts) {
+		selectorHtml = selectorHtml + '<option>' + key + '</option>'
+	}
+	selectorHtml = selectorHtml + '</select>';
+	
+	selectorContainer.innerHTML = selectorHtml;
+}
+
+function start() {
+	createSelector();
+	bindEvents();
+}
+
+start();
